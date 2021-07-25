@@ -1,7 +1,7 @@
 ---
 title: Vahid Ahmadi
 role: M.Sc. Economics
-avatar_filename: blob:https://web.telegram.org/d7fae1a8-7c6c-47f9-89be-4524c9c7615b
+avatar_filename: 44be04d6-a5ee-485b-8d42-6efd800f17dd.jpg
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
@@ -29,7 +29,7 @@ education:
     - course: BSc in Electrical Engineering
       institution: Sharif University of Technology
       year: 2021
-email: ""
+email: va.vahidahmadi@gmail.com
 superuser: true
 highlight_name: false
 ---
