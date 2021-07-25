@@ -1,6 +1,6 @@
 ---
 title: Vahid Ahmadi
-role: Professor of Artificial Intelligence
+role: M.Sc. Economics
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
