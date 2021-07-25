@@ -16,7 +16,7 @@ social:
     link: https://twitter.com/VahidAhmadi_
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/vahidahmadi/
+    link: https://www.linkedin.com/in/vahidahmadi/
 organizations:
   - name: LMU Munich University
     url: https://www.lmu.de/en/
