@@ -5,9 +5,9 @@ avatar_filename: blob:https://web.telegram.org/d7fae1a8-7c6c-47f9-89be-4524c9c76
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Economics
+  - Optimization
+  - Mathematical Modeling
 social:
   - icon: envelope
     icon_pack: fas
