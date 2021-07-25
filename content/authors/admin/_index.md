@@ -1,7 +1,7 @@
 ---
 title: Vahid Ahmadi
 role: MSc Economics
-avatar_filename: 44be04d6-a5ee-485b-8d42-6efd800f17dd.jpg
+avatar_filename: avatar.jpg.png
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
